@@ -1,2 +1,2 @@
 # Java-codes
-Learning Java
+Learning Path
